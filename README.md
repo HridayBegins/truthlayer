@@ -4,7 +4,7 @@
 > Built for CogDigital Product Management Trainee Assessment
 
 ## 🚀 Live Demo
-**Deployed App:** [https://truthlayer-factcheck.streamlit.app](https://truthlayer-factcheck.streamlit.app)
+**Deployed App:** [https://truthlayer-factcheck.streamlit.app]( https://truthlayer-fdnmkueq68ctyqfqzs6cuk.streamlit.app)
 
 ## 📋 Overview
 
