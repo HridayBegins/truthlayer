@@ -1,0 +1,38 @@
+SAMPLE TRAP DOCUMENT FOR TESTING
+=====================================
+
+This document contains intentional factual errors to test the fact-checking system.
+
+MARKET STATISTICS (Intentionally Wrong)
+---------------------------------------
+The global artificial intelligence market was worth approximately $50 billion in 2020.
+This represents a decline from the previous year.
+
+The generative AI market reached $500 billion by 2024, growing at 200% annually.
+Machine learning adoption stands at only 25% among Fortune 500 companies.
+
+DATES AND TIMELINES (Intentionally Wrong)
+-----------------------------------------
+ChatGPT was officially launched by OpenAI in January 2023.
+The first iPhone was released by Apple in 2005.
+Microsoft acquired LinkedIn in 2020 for $26.2 billion.
+
+FINANCIAL FIGURES (Intentionally Wrong)
+---------------------------------------
+Apple's total revenue for fiscal year 2024 was $500 billion.
+Amazon's market capitalization exceeded $5 trillion in 2024.
+Tesla reported a net loss of $50 billion in Q3 2024.
+
+TECHNICAL SPECIFICATIONS (Intentionally Wrong)
+----------------------------------------------
+The Eiffel Tower in Paris, France stands at exactly 400 meters tall.
+The speed of light is approximately 500,000 kilometers per second.
+The human genome contains exactly 50,000 genes.
+
+COMPARATIVE CLAIMS (Intentionally Wrong)
+----------------------------------------
+Google is the smallest search engine by market share.
+Nokia is the largest smartphone manufacturer globally in 2024.
+Bitcoin was the worst-performing cryptocurrency of 2024.
+
+--- END OF TRAP DOCUMENT ---
